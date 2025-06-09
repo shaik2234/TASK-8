@@ -28,7 +28,7 @@ A simple, responsive blog layout built using **Bootstrap 5 CDN**. This project d
 ## 🔧 How to Use
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/Mahidhar-27/Task-8.git
+   git clone https://github.com/shaik2234/TASK-8.git
    cd Task-8
    ```
 
